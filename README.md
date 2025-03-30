@@ -67,9 +67,9 @@ To collaborate:
 4. Open a Pull Request.
 
 ## Authors
-- **Your Name**  
-- **Other Team Members**  
+- **Samruddhi**  
+- **Riddhi**
+- **Jessica**
+- **Chaitanya**
 
-## License
-This project is licensed under the MIT License.
 
